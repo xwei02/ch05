@@ -1,4 +1,4 @@
-public class EveryThree {
+public class Practice1 {
     public static void printEvery3(){
         for (int i = 1; i <=88 ; i+=3) {
             System.out.println(i);

@@ -1,4 +1,4 @@
-public class Array {
+public class Practice3 {
     public static int[] reversedArray(int[] arr) {
         int[] outputArray = new int[arr.length];
         int j = 0;

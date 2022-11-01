@@ -1,4 +1,4 @@
-public class Palindrome {
+public class Hard3 {
     public static void main(String[] args) {
         String inputStr = "上海自來水來自海上";
         boolean palindrome = true;

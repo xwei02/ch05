@@ -1,4 +1,4 @@
-public class UpperWord {
+public class Practice5 {
     public static void upperCasePosition(String input) {
         boolean found = false;
         for (int i = 0; i < input.length(); i++) {
